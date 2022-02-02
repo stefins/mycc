@@ -1,0 +1,12 @@
+int x;
+x= 1;     print x;
+x= x + 1; print x;
+x= x + 1; print x;
+x= x + 1; print x;
+x= x + 1; print x;
+
+int stefinn;
+
+stefinn = 69;
+
+print stefinn;
